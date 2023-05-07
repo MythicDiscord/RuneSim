@@ -4,4 +4,8 @@ What data of yours do we store?:
 ⦁ Servers you've used the bot
 ⦁ The last message you sent a command in every server
 
+Data related to messages will be deleted after 30 days of inactivity.
+This will not affect your save data.
+
 Your data will be removed upon request.
+Please contact Mythic#3333 on Discord to have this removed.
